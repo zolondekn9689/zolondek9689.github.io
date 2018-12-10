@@ -1,0 +1,82 @@
+/*body {
+  padding-top: 150px;
+}
+*/
+.bodyPadding {
+  padding-top: 150px;
+
+}
+
+p {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+
+
+}
+
+.expandName {
+  font-size: 40px;
+}
+
+.jumbotron{
+  height: 100vh;
+  
+
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+
+#backgroundImage {
+  background-color: blue;
+}
+
+.titleName {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+
+.scaleImageIphone {
+  height: 40;
+  width: 40;
+}
+
+.bold {
+  font-weight: bold;
+
+}
+
+.background {
+  background-color: #C2B9B0;
+  padding-top: 90px;
+}
+
+a:link, a:visited {
+  color: grey;
+  text-decoration: none;
+  padding-right: 50px;
+}
+
+
+.top-side-margin {
+  padding-top: 30px;
+}
+
+.smallJumbotron {
+  height: 75vh;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.b-text {
+  font-weight: bold;
+  font-size: 18px;
+}
